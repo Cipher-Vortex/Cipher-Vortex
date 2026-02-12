@@ -1,16 +1,112 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
 
-<!--
-**Cipher-Vortex/Cipher-Vortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Kiran%20S%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">
+⚡ Full Stack Engineer • MERN Specialist • Debugging Code I Wrote 5 Minutes Ago
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Survivor;I+center+divs+on+the+first+try+(sometimes);Dockerizing+things+that+don%27t+need+it;Professional+Google+Searcher;Architecting+Scalable+Chaos&center=true&width=520&height=45&color=00dbde">
+</p>
+
+---
+
+## 🧊 Log: `/var/log/kiran.log`
+
+<p align="center">
+I’m a <b>Full-Stack Developer</b> turning caffeine into bugs — and bugs into features.<br/>
+I build scalable, high-performance web applications that <i>usually don’t crash on Fridays.</i>
+</p>
+
+- 🔭 **Current Project** — Tours Platform  
+- 🌱 **Learning** — Docker & DevOps workflows  
+- 💬 **Ask me about** — MERN, architecture, debugging JS chaos  
+- 🧠 **Exploring** — AI-assisted testing  
+- 📫 **Contact** — [skkiran1258@gmail.com](mailto:skkiran1258@gmail.com)  
+- 📄 **Resume** — https://drive.google.com/file/d/1tvnaG53eitm4Dj19R-UuwKj0oXtOwGne/view  
+
+---
+
+## 🌐 Digital Footprints
+
+<p align="center">
+
+<!-- <img src="https://komarev.com/ghpvc/?username=cipher-vortex&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/cipher-vortex?style=for-the-badge&color=203a43"/>
+<img src="https://img.shields.io/github/stars/cipher-vortex?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0f2027"/>
+
+<br><br> -->
+
+<a href="https://linkedin.com/in/kiran-s-r-774530268/">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+</a>
+<a href="https://instagram.com/skkiran.153">
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
+</a>
+<a href="https://github.com/cipher-vortex">
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 The Daily Bread (Core Tech)
+*Things I use to build beautiful UIs and then spend 4 hours centering a single `div`.*
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,ts,js,html,css" alt="Core Tech"/>
+
+<br/>
+
+### ⚙️ The "It Works on My Machine" Starter Pack (Backend & Infra)
+*Where I pretend to understand Docker while actually just restarting the container until it works.*
+
+<img src="https://skillicons.dev/icons?i=express,redis,docker,python,git,linux,postman" alt="Backend & Infrastructure"/>
+
+<br/>
+
+### 🎨 Emotional Support Tools (Styling & Workflow)
+*Because if it doesn't look pretty in VS Code and Figma, did I even code it?*
+
+<img src="https://skillicons.dev/icons?i=tailwind,sass,figma,vscode,vite,astro" alt="Styling & Tools"/>
+</div>
+
+---
+
+## 📊 Performance Metrics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-vortex&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
+<img src="https://streak-stats.demolab.com?user=cipher-vortex&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Proof of Life
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-vortex&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## ⚡ Developer Philosophy
+
+<p align="center">
+<b>I code — therefore I debug</b><br/>
+<b>If it ain’t broke — you’re not trying hard enough</b><br/>
+<b>Legacy code = what I wrote 10 minutes ago</b>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=2c5364&text=Go%20Away%20(Just%20Kidding%2C%20Hire%20Me!)&fontSize=20&fontColor=ffffff"/>
+</p>
+
