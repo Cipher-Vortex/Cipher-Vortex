@@ -29,12 +29,22 @@
       <a href="https://linkedin.com/in/kiran-s-r-774530268/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
       <a href="https://github.com/cipher-vortex"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
       <a href="https://instagram.com/skkiran.153"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
+        <br/><br/>
+      <!-- <a href="https://drive.google.com/file/d/1tvnaG53eitm4Dj19R-UuwKj0oXtOwGne/view?usp=drive_link" target="_blank">
+        <img src="https://img.shields.io/badge/View_Resume-2c5364?style=for-the-badge&logo=googledrive&logoColor=white" />
+      </a> -->
+<!-- <a href="https://drive.google.com/file/d/1tvnaG53eitm4Dj19R-UuwKj0oXtOwGne/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/PROOFS_OF_WORK-FFD700?style=for-the-badge&logo=googledrive&logoColor=black" alt="Resume Link" title="Warning: Contains 0% ChatGPT generated experience"/>
+</a> -->
+      <a href="https://drive.google.com/file/d/1tvnaG53eitm4Dj19R-UuwKj0oXtOwGne/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/RESUME-FFD700?style=for-the-badge&logo=googledrive&logoColor=black&label=Proof_I_Don't_Just_Google" title="Warning: Contains 0% ChatGPT generated experience"/>
+</a>   
     </td>
   </tr>
 </table>
 
 ### 🚀 The "Actually Works" Stack
-*Centering divs and architecting chaos.*
+Optimized by human intelligence, debugged by AI.
 
 | **Category** | **Technologies** | **The Reality** |
 | :--- | :--- | :--- |
@@ -58,7 +68,7 @@
 
 ### 🛠️ Developer Realities
 - **90%** of my time is spent naming a single variable.
-- **8%** is spent looking for the missing semicolon.
+- **8%** is spent asking ChatGPT why my code isn't working.
 - **2%** is actually writing code.
 
 ---
