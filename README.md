@@ -14,10 +14,10 @@
     <td width="65%" valign="top">
       I’m a <b>Full-Stack Developer</b> who writes code so clean, it makes the linter cry tears of joy (mostly). I specialize in the MERN stack and building interfaces that users actually want to click.
       <br/><br/>
-      🔭 <b>Current Mission:</b> Scaling a Tours & Travels Platform (and ensuring the DB doesn't drop).<br/>
-      ⚡ <b>Superpower:</b> Reducing UI dev time by 30% and squashing bugs before QA finds them.<br/>
-      💬 <b>Ask me about:</b> Why JWTs are better than session cookies, or how to tame Next.js.<br/>
-      📫 <b>Ping me:</b> <a href="mailto:skkiran1258@gmail.com">skkiran1258@gmail.com</a>
+       <b>Current Mission:</b> Scaling a Tours & Travels Platform (and ensuring the DB doesn't drop).<br/>
+       <b>Superpower:</b> Reducing UI dev time by 30% and squashing bugs before QA finds them.<br/>
+       <b>Ask me about:</b> Why JWTs are better than session cookies, or how to tame Next.js.<br/>
+       <b>Ping me:</b> <a href="mailto:skkiran1258@gmail.com">skkiran1258@gmail.com</a>
     </td>
     <td width="35%" valign="top" align="center">
       <strong>Network Requests</strong>
@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-### 🚀 The "Actually Works" Stack
+###  The "Actually Works" Stack
 *Optimized by human intelligence, occasionally debated with the compiler.*
 
 | **Category** | **Technologies** | **My Relationship With It** |
@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠️ Developer Realities
+### Developer Realities
 
 > **40%** Architecting the perfect component structure.  
 > **40%** Writing the logic to make it scale.  
