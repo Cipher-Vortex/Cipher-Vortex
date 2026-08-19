@@ -7,7 +7,7 @@
 
 <br/>
 
-### 🧊 Log: `/var/log/kiran.log`
+###  Log: `/var/log/kiran.log`
 
 <table align="center" width="100%">
   <tr>
